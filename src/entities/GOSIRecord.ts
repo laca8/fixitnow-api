@@ -1,0 +1,1 @@
+export { GOSIRecord } from "./index";

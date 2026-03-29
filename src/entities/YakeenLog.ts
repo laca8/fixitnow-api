@@ -1,0 +1,1 @@
+export { YakeenLog } from "./index";

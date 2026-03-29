@@ -1,0 +1,1 @@
+export { YakeenUserData } from "./index";

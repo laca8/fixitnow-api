@@ -1,0 +1,1 @@
+export { GOSILog } from "./index";

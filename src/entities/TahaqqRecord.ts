@@ -1,0 +1,1 @@
+export { TahaqqRecord } from "./index";

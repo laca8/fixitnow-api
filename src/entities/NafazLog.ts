@@ -1,0 +1,1 @@
+export { NafazLog } from "./index";
